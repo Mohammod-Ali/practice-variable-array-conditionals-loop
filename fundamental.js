@@ -16,9 +16,13 @@ var name1 = 'mohammod ali';
    console.log(typeof(name1)) 
 
 // 6. primitive and non-primitive data types
+  /*
+   => primitive data type: Number, string, boolean, nul, undefined
+   => non-primitive data type: Array, orbject
+  */ 
 // 7. Naming convention of js variable.
 // 8. Math operation +, -, *, /,%
-// short hand +=, -=, *=, /= . ++, --, <=, >=.
+// short hand +=, -=, *=, /= . ++, --, 
 //parseInd, parseFloat
 var num = 99.99;
 console.log(parseInt(num))
